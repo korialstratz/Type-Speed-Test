@@ -1,6 +1,6 @@
 <h2>Type Speed Test</h2>
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/korialstratz/Type-Speed-Test/blob/master/readme%20images/speed.png?raw=true)
 
 install requirements.txt
 pip install -r requirements.txt
